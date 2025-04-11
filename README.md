@@ -8,4 +8,4 @@ I am currently pursuing a BE in Computer Engineering from [Government Engineerin
 - 👯 I’m looking to collaborate on Java based & ML projects
 - 🤔 I’m looking for help with low level programming
 - 💬 Ask me about Backend frameworks and Linux distros
-- 📫 How to reach me: [Connect](https://jainish-prajapati.me/connect/)
+- 📫 How to reach me: [Connect](https://jainish-prajapati.github.io/connect/)
