@@ -5,16 +5,17 @@
 
 ### 🛠️ Tech Stack
 
+
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Python-logo-notext.svg" alt="Python" width="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Java_logo.svg" alt="Java" width="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C++" width="60"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <br><br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Flask_logo.svg" alt="Flask" width="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Django_logo.svg" alt="Django" width="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Spring_Boot_logo.svg" alt="Spring Boot" width="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/MongoDB_Logo.svg" alt="MongoDB" width="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/MySQL_logo.svg" alt="MySQL" width="60"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </div>
 
 ---
