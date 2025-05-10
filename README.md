@@ -32,6 +32,7 @@
 
 - 🌐 [Portfolio](https://jain1shh.github.io/)
 - 🔗 [Social Handles](https://jain1shh.github.io/connect/)
+- 📚 [Bookshelf](https://jain1shh.github.io/bookshelf/)
 - 📧 Email: [PrajapatiJainish@protonmail.com](mailto:PrajapatiJainish@protonmail.com)
 
 ---
