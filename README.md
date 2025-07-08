@@ -37,7 +37,7 @@
 - 📧 Email: [PrajapatiJainish@protonmail.com](mailto:PrajapatiJainish@protonmail.com)
 
 ---
-![Views Badge](https://komarev.com/ghpvc/?username=Jain1shh&label=Profile%20views&color=0e75b6&style=flat) [![blogs - Jain1shh.github.com](https://img.shields.io/static/v1?label=blogs&message=Jain1shh.github.com&color=blue)](https://Jain1shh.github.com) ![GitHub User's stars](https://img.shields.io/github/stars/Jain1shh)
+![Views Badge](https://komarev.com/ghpvc/?username=Jain1shh&label=Profile%20views&color=0e75b6&style=flat) [![blogs - Jain1shh.github.io](https://img.shields.io/static/v1?label=blogs&message=Jain1shh.github.io&color=blue)](https://Jain1shh.github.io) ![GitHub User's stars](https://img.shields.io/github/stars/Jain1shh)
 
 ---
 > **Precision matters more than speed.**  
