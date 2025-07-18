@@ -37,7 +37,11 @@
 - 📧 Email: [PrajapatiJainish@protonmail.com](mailto:PrajapatiJainish@protonmail.com)
 
 ---
-![Views Badge](https://komarev.com/ghpvc/?username=Jain1shh&label=Profile%20views&color=0e75b6&style=flat) [![blogs - Jain1shh.github.io](https://img.shields.io/static/v1?label=blogs&message=Jain1shh.github.io&color=blue)](https://Jain1shh.github.io) ![GitHub User's stars](https://img.shields.io/github/stars/Jain1shh)
+![Views Badge](https://komarev.com/ghpvc/?username=Jain1shh&label=Profile%20views&color=0e75b6&style=flat) 
+[![blogs - Jain1shh.github.io](https://img.shields.io/static/v1?label=blogs&message=Jain1shh.github.io&color=blue)](https://Jain1shh.github.io) 
+[![LeetCode user Jain1shh](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Leetcode&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FJain1shh&logo=leetcode&logoColor=yellow)](https://leetcode.com/Jain1shh/) &nbsp;
+[![Codeforces](https://codeforces-readme-stats.vercel.app/api/badge?username=JainishPrajapati)](https://codeforces.com/profile/JainishPrajapati) &nbsp;
+![GitHub User's stars](https://img.shields.io/github/stars/Jain1shh)
 
 ---
 > **Precision matters more than speed.**  
