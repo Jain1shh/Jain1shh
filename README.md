@@ -30,10 +30,10 @@
 
 ### 📬 Connect with Me
 
-- 🌐 [Portfolio](https://jain1shh.github.io/)
-- 🔗 [Social Handles](https://jain1shh.github.io/connect/)
-- 🗣️ [What Jainish Says](https://jain1shh.github.io/What-Jain1shh-Says/)
-- 📚 [Bookshelf](https://jain1shh.github.io/bookshelf/)
+- 🌐 [Portfolio](https://jain1shh.is-a.dev/)
+- 🔗 [Social Handles](https://jain1shh.is-a.dev/connect/)
+- 🗣️ [What Jainish Says](https://jain1shh.is-a.dev/What-Jain1shh-Says/)
+- 📚 [Bookshelf](https://jain1shh.is-a.dev/bookshelf/)
 - 📧 Email: [PrajapatiJainish@protonmail.com](mailto:PrajapatiJainish@protonmail.com)
 
 ---
