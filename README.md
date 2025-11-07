@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Jain1shh</h1>
-<h3 align="center">Engineer | Backend Developer | Systems Thinker</h3>
+<h3 align="center">Engineer | Thinker</h3>
 
 ---
 
