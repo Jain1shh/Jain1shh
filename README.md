@@ -20,14 +20,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jain1shh&show_icons=true&theme=tokyonight&hide_border=true" alt="Jainish's GitHub Stats"/>
-</div>
-
----
-
 ### 📬 Connect with Me
 
 - 🌐 [Portfolio](https://jain1shh.is-a.dev/)
@@ -44,5 +36,5 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/Jain1shh)
 
 ---
-> **Precision matters more than speed.**  
-(_Code it right. Scale it later._)
+> **Talk is cheap, show me the code.**  
+(_Linus Torvalds_)
