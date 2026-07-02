@@ -8,7 +8,7 @@ into systems, clean APIs, and understanding how things actually work under the h
 ---
 
 **stack**  
-`Java` `C++` `Spring Boot` `MySQL` `REST` `Git` `Linux`
+`Java` `C++` `Python` `Spring Boot` `Flask/FastAPI` `MySQL` `REST` `Linux`
 
 ---
 
