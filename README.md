@@ -1,5 +1,5 @@
 # Hi, I'm Jainish
-I believe in the power of compounding.
+I believe in the power of [compounding](https://jain1shh.github.io/What-Jain1shh-Says/blogs/compounding-in-daily-life.html).
 Small consistent efforts - in code, learning, building, and thinking all add up over time. Just like compound interest, everything we gain (knowledge, skills, connections, clarity) builds on what came before.
 
 Right now I'm focused on:
