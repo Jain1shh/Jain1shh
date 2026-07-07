@@ -10,3 +10,7 @@ Right now I'm focused on:
 Working towards becoming better every day!
 
 Feel free to reach out: [PrajapatiJainish@protonmail.com](mailto:PrajapatiJainish@protonmail.com)
+
+---
+
+elsewhere: [site](https://Jain1shh.is-a.dev) · [linkedIn](https://www.linkedin.com/in/Jain1shh) · [x](https://x.com/Jain1shh)
