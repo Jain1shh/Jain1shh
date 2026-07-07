@@ -1,15 +1,12 @@
-**Jain1shh**  
- 
----
+# Hi, I'm Jainish
+I believe in the power of compounding.
+Small consistent efforts - in code, learning, building, and thinking all add up over time. Just like compound interest, everything we gain (knowledge, skills, connections, clarity) builds on what came before.
 
-backend-leaning dev who likes building things close to the metal.  
-into systems, clean APIs, and understanding how things actually work under the hood.
+Right now I'm focused on:
+- SaaS
+- Problem Solving
+- Exploring product ideas that can make real impact
 
----
+Working towards becoming better every day!
 
-**stack**  
-`Java` `C++` `Python` `Spring Boot` `Flask/FastAPI` `MySQL` `REST` `Linux`
-
----
-
-[Portfolio](https://jain1shh.is-a.dev) · [LeetCode](https://leetcode.com/u/Jain1shh) · [LinkedIn](https://www.linkedin.com/in/jain1shh)
+Feel free to reach out: [PrajapatiJainish@protonmail.com](mailto:PrajapatiJainish@protonmail.com)
