@@ -1,16 +1,11 @@
-# Hi, I'm Jainish
-I believe in the power of [compounding](https://jain1shh.github.io/What-Jain1shh-Says/blogs/compounding-in-daily-life.html).
-Small consistent efforts - in code, learning, building, and thinking all add up over time. Just like compound interest, everything we gain (knowledge, skills, connections, clarity) builds on what came before.
+## Hi, I'm Jainish
 
-Right now I'm focused on:
-- SaaS
-- Problem Solving
-- Exploring product ideas that can make real impact
+backend-leaning dev who likes building things close to the metal.  
+into systems, clean APIs, and understanding how things actually work under the hood.
 
-Working towards becoming better every day!
+**stack**  
+`java` `python` `spring boot` `flask/fastapi` `databases` `git` `linux`
 
-Feel free to reach out: [PrajapatiJainish@protonmail.com](mailto:PrajapatiJainish@protonmail.com)
-
----
+feel free to reach out: [prajapatijainish@protonmail.com](mailto:PrajapatiJainish@protonmail.com)
 
 elsewhere: [site](https://Jain1shh.is-a.dev) · [linkedIn](https://www.linkedin.com/in/Jain1shh) · [x](https://x.com/Jain1shh)
