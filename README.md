@@ -4,7 +4,7 @@ backend-leaning dev who likes building things close to the metal.
 into systems, clean APIs, and understanding how things actually work under the hood.
 
 **stack**  
-`java` `python` `spring boot` `flask/fastapi` `databases` `git` `linux`
+`java` `c/c++` `python` `spring boot` `flask/fastapi` `databases` `git` `linux`
 
 feel free to reach out: [prajapatijainish@protonmail.com](mailto:PrajapatiJainish@protonmail.com)
 
