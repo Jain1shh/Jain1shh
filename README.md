@@ -5,6 +5,7 @@ into systems, clean APIs, and understanding how things actually work under the h
 
 **stack**  
 `java` `c/c++` `python` `spring boot` `flask/fastapi` `databases` `git` `linux`
+`system design` `microprocessors & assembly language`
 
 feel free to reach out: [prajapatijainish@protonmail.com](mailto:PrajapatiJainish@protonmail.com)
 
